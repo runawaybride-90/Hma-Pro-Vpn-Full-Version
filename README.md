@@ -246,4 +246,4 @@ This repository serves as the official landing page for HMA! Pro VPN. The softwa
 **Get the most recent version of HMA! Pro VPN today!**
 
 ---
-**Last updated:** 2026-09-12 22:03:10 UTC
+**Last updated:** 2026-09-13 00:42:28 UTC
